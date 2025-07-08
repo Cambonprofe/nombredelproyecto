@@ -1,0 +1,15 @@
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\bin\Debug\net9.0\MiProyecto.exe
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\bin\Debug\net9.0\MiProyecto.deps.json
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\bin\Debug\net9.0\MiProyecto.runtimeconfig.json
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\bin\Debug\net9.0\MiProyecto.dll
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\bin\Debug\net9.0\MiProyecto.pdb
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\obj\Debug\net9.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\obj\Debug\net9.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\obj\Debug\net9.0\MiProyecto.AssemblyInfo.cs
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\obj\Debug\net9.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\obj\Debug\net9.0\MiProyecto.sourcelink.json
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\obj\Debug\net9.0\MiProyecto.dll
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\obj\Debug\net9.0\refint\MiProyecto.dll
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\obj\Debug\net9.0\MiProyecto.pdb
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\obj\Debug\net9.0\MiProyecto.genruntimeconfig.cache
+C:\Users\pato\Desktop\nombre\MiProyecto\MiProyecto\obj\Debug\net9.0\ref\MiProyecto.dll
